@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ajSwCZYKbsQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sameera.mohamed\\CapstoneProjectGroup3\\MyShuttleAutomation\\MyShuttleWebdriverAdapter\\MyShuttleWebdriverAdapter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sameera.mohamed\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\sameera.mohamed\\.nuget\\packages\\selenium.support\\4.27.0\\selenium.support.4.27.0.nupkg.sha512",
+    "C:\\Users\\sameera.mohamed\\.nuget\\packages\\selenium.webdriver\\4.27.0\\selenium.webdriver.4.27.0.nupkg.sha512",
+    "C:\\Users\\sameera.mohamed\\.nuget\\packages\\selenium.webdriver.chromedriver\\131.0.6778.10800\\selenium.webdriver.chromedriver.131.0.6778.10800.nupkg.sha512"
+  ],
+  "logs": []
+}

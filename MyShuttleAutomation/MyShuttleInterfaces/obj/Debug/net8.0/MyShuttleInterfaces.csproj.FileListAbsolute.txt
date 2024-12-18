@@ -1,0 +1,16 @@
+C:\Users\sameera.mohamed\CapstoneProjectGroup3\MyShuttleAutomation\MyShuttleInterfaces\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\sameera.mohamed\CapstoneProjectGroup3\MyShuttleAutomation\MyShuttleInterfaces\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\sameera.mohamed\CapstoneProjectGroup3\MyShuttleAutomation\MyShuttleInterfaces\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\sameera.mohamed\CapstoneProjectGroup3\MyShuttleAutomation\MyShuttleInterfaces\bin\Debug\net8.0\MyShuttleInterfaces.deps.json
+C:\Users\sameera.mohamed\CapstoneProjectGroup3\MyShuttleAutomation\MyShuttleInterfaces\bin\Debug\net8.0\MyShuttleInterfaces.dll
+C:\Users\sameera.mohamed\CapstoneProjectGroup3\MyShuttleAutomation\MyShuttleInterfaces\bin\Debug\net8.0\MyShuttleInterfaces.pdb
+C:\Users\sameera.mohamed\CapstoneProjectGroup3\MyShuttleAutomation\MyShuttleInterfaces\obj\Debug\net8.0\MyShuttleInterfaces.csproj.AssemblyReference.cache
+C:\Users\sameera.mohamed\CapstoneProjectGroup3\MyShuttleAutomation\MyShuttleInterfaces\obj\Debug\net8.0\MyShuttleInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sameera.mohamed\CapstoneProjectGroup3\MyShuttleAutomation\MyShuttleInterfaces\obj\Debug\net8.0\MyShuttleInterfaces.AssemblyInfoInputs.cache
+C:\Users\sameera.mohamed\CapstoneProjectGroup3\MyShuttleAutomation\MyShuttleInterfaces\obj\Debug\net8.0\MyShuttleInterfaces.AssemblyInfo.cs
+C:\Users\sameera.mohamed\CapstoneProjectGroup3\MyShuttleAutomation\MyShuttleInterfaces\obj\Debug\net8.0\MyShuttleInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\sameera.mohamed\CapstoneProjectGroup3\MyShuttleAutomation\MyShuttleInterfaces\obj\Debug\net8.0\MyShuttleInterfaces.sourcelink.json
+C:\Users\sameera.mohamed\CapstoneProjectGroup3\MyShuttleAutomation\MyShuttleInterfaces\obj\Debug\net8.0\MyShuttleInterfaces.dll
+C:\Users\sameera.mohamed\CapstoneProjectGroup3\MyShuttleAutomation\MyShuttleInterfaces\obj\Debug\net8.0\refint\MyShuttleInterfaces.dll
+C:\Users\sameera.mohamed\CapstoneProjectGroup3\MyShuttleAutomation\MyShuttleInterfaces\obj\Debug\net8.0\MyShuttleInterfaces.pdb
+C:\Users\sameera.mohamed\CapstoneProjectGroup3\MyShuttleAutomation\MyShuttleInterfaces\obj\Debug\net8.0\ref\MyShuttleInterfaces.dll
